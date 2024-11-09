@@ -41,7 +41,7 @@ public class AgeFinder {
 	
 
 	public static void main(String[] args) {
-		//revanth the coder
+		//juveria the coder
 		Scanner scn = new Scanner(System.in);
 		System.out.println("Enter the Date Of Birth (Format :- yyyy-mm-dd): ");
 		String dateOfBirth = scn.nextLine();
